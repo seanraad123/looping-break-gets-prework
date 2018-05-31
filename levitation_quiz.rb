@@ -10,5 +10,3 @@ def levitation_quiz
   end
 	#your code here
 end
-
-levitation_quiz
